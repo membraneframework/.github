@@ -1,7 +1,7 @@
 # Membrane Framework
 
-### Let's meet on 13th October at [RTC.ON](https://rtcon.live) - the first conference about Membrane & multimedia!
-### Learn more at [rtcon.live](https://rtcon.live)
+### []() Let's meet on 13th October at [RTC.ON](https://rtcon.live) - the first conference about Membrane & multimedia!</span>
+### []() Learn more at [rtcon.live](https://rtcon.live)
 
 ---
 
