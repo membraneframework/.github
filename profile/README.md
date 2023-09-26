@@ -13,4 +13,4 @@ Membrane is a versatile multimedia streaming & processing framework. You can use
 - seamlessly scale and recover from errors,
 - do whatever you imagine if you implement it yourself :D Membrane makes it easy to plug in your code at almost any point of processing.
 
-Check [membrane_core](https://github.com/membraneframework/membrane_core/tree/readme) for more info and to get started.
+Check [membrane_core](https://github.com/membraneframework/membrane_core) for more info and to get started.
