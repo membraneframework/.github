@@ -1,6 +1,6 @@
 # Membrane Framework
 
-### []() Let's meet 11-13th September at [RTC.ON](https://rtcon.live) - the conference about Membrane & multimedia!</span>
+### []() Let's meet on 11-13th September at [RTC.ON](https://rtcon.live) - the conference about Membrane & multimedia!</span>
 ### []() Learn more at [rtcon.live](https://rtcon.live)
 
 ---
