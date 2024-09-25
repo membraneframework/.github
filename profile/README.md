@@ -1,10 +1,5 @@
 # Membrane Framework
 
-### []() Let's meet on 11-13th September at [RTC.ON](https://rtcon.live) - the conference about Membrane & multimedia!</span>
-### []() Learn more at [rtcon.live](https://rtcon.live)
-
----
-
 Membrane is a versatile multimedia streaming & processing framework. You can use it to build a media server of your need, that can:
 - stream via WebRTC, RTSP, RTMP, HLS, HTTP and other protocols,
 - transcode, mix and apply custom processing of video & audio,
@@ -14,3 +9,5 @@ Membrane is a versatile multimedia streaming & processing framework. You can use
 - do whatever you imagine if you implement it yourself :D Membrane makes it easy to plug in your code at almost any point of processing.
 
 Check [membrane_core](https://github.com/membraneframework/membrane_core) for more info and to get started.
+
+Membrane is created by [Software Mansion](https://swmansion.com/). We can help you build your next dream product – [Hire us](https://swmansion.com/contact/projects).
