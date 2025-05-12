@@ -10,4 +10,6 @@ Membrane is a versatile multimedia streaming & processing framework. You can use
 
 Check [membrane_core](https://github.com/membraneframework/membrane_core) for more info and to get started.
 
+If you already had a chance to use Membrane, we will be greateful if could fill out quick [survey](https://forms.gle/dgVDFHUD7CUGxU5VA) to help us improve framework and decide on what to do next.
+
 Membrane is created by [Software Mansion](https://swmansion.com/?utm_source=git&utm_medium=readme&utm_campaign=membrane). We can help you build your next dream product – [Hire us](https://swmansion.com/contact/projects).
